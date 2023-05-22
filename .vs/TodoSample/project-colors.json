@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e9db6e8f-74d5-4a05-9042-3440ae9c3f99": {
+      "ProjectGuid": "e9db6e8f-74d5-4a05-9042-3440ae9c3f99",
+      "DisplayName": "Data",
+      "ColorIndex": 0
+    },
+    "1a498051-f64a-41c8-b2e4-c62c9c6aca95": {
+      "ProjectGuid": "1a498051-f64a-41c8-b2e4-c62c9c6aca95",
+      "DisplayName": "Service",
+      "ColorIndex": 1
+    },
+    "d3fcde32-23d3-4242-9954-1a9e3b27313c": {
+      "ProjectGuid": "d3fcde32-23d3-4242-9954-1a9e3b27313c",
+      "DisplayName": "TodoSample",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
